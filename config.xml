@@ -60,10 +60,7 @@
     <plugin name="cordova-plugin-media" source="npm"/>
     <plugin name="cordova-plugin-network-information" source="npm"/>
 	 <plugin name="cordova-plugin-background-mode" source="npm"/>
-	 	 <plugin name="cordova-plugin-media" source="npm"/>
-	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-<uses-permission android:name="android.permission.RECORD_AUDIO" />
-<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+	 	 
  
 
  
